@@ -8,10 +8,10 @@
 			var firstNumber = Convert.ToDouble(Console.ReadLine());
 
 			Console.WriteLine($"Выберите команду: \n" +
-			                  +                              $"1. + \n" +
-			                  +                              $"2. - \n" +
-			                  +                              $"3. * \n" +
-			                  +                              $"4. / \n");
+			                  $"1. + \n" +
+			                  $"2. - \n" +
+			                  $"3. * \n" +
+			                  $"4. / \n");
 
 			var choice = Convert.ToInt32(Console.ReadLine());
 
