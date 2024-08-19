@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHube_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f489fe3fb3f8aba74d864f09c7a27ffb79758565")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1db9e40a1c5b4ca6d3aa87a7873c5564ab6e9537")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHube_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHube_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
