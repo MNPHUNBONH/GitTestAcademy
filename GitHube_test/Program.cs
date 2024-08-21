@@ -1,4 +1,4 @@
-﻿public class Program
+public class Program
 {
 	static void Main()
 	{
@@ -47,6 +47,6 @@
 			default:
 				Console.WriteLine("Выбрана неверная операция.");
 				break;
+			}
 		}
 	}
-}
